@@ -3,6 +3,10 @@ Human-AI Collaboration Project  <br />
 Center for Data-Driven Discovery <br />
 Kavli IPMU
 
+
+![alt text](wpxi_UM_sSFR_Bielby_plot.png)
+
+
 <h1><b> Relevant Links: </b></h1>  <br />
 <ul>
 <li><a href="https://mwhite.berkeley.edu/BoxRemap/">Box remapper for reshaping volume cutout from the Uchuu to match the survey geometry of PFS.</a> </li><br />
