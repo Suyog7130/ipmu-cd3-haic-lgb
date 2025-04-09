@@ -39,6 +39,10 @@ idGbox = GAL['boxID'].astype(int)
 idRbox = RAND['boxID'].astype(int)
 IDboxes = np.unique(idRbox)
 
+xR = RAND['x']
+yR = RAND['y']
+zR = RAND['z']
+
 aa=1./(1.+z_sim)
 sf=0.01/np.sqrt(Om0/aa+(1-Om0)*aa**2) # Calculates H(z)
 
