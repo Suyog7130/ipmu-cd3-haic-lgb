@@ -20,9 +20,6 @@ Kavli IPMU
 -- In line with our investigation: They created simulated LAE/LBG mocks and used field-level EFT to model the simulated observations.<br />
 <b>High-redshift Millennium and Astrid galaxies in effective field theory at the field level</b></br>
 <i> Sullivan+ 2025 </i> <br />
--- In line with our investigation: They created simulated LAE/LBG galaxy mocks from hydrosims and tested the field-level EFT model.<br />
-<b>High-redshift Millennium and Astrid galaxies in effective field theory at the field level</b></br>
-<i> Sullivan+ 2025</i> <br />
 <a href="https://arxiv.org/abs/2505.03626">https://arxiv.org/abs/2505.03626</a> <br />
 In this paper we measure the bias parameters and other EFT coefficients from samples of two types of star-forming galaxies in the state-of-the-art MilleniumTNG and Astrid hydrodynamical simulations. Our measurements are based on the field-level EFT forward model that allows for precision EFT parameter measurements by virtue of cosmic variance cancellation. Specifically, we consider approximately representative samples of Lyman-break galaxies (LBGs) and Lyman-alpha emitters (LAEs) that are consistent with the observed (angular) clustering and number density of these galaxies at z=3. Reproducing the linear biases and number densities observed from existing LAE and LBG data, we find quadratic bias parameters that are roughly consistent with those predicted from the halo model coupled with a simple halo occupation distribution model.<br />
 
